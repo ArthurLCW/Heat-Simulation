@@ -1,0 +1,9 @@
+mainmode: 
+gpu01
+4
+4
+4
+4
+[WARN] cannot get screen dpi, auto-scaling disabled
+stabilized in 299200585626 ns.
+slurmstepd: error: *** JOB 103913 ON gpu01 CANCELLED AT 2021-12-05T03:35:41 DUE TO TIME LIMIT ***

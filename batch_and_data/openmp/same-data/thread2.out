@@ -1,0 +1,4 @@
+mainmode: 
+gpu02
+[WARN] cannot get screen dpi, auto-scaling disabled
+slurmstepd: error: *** JOB 105946 ON gpu02 CANCELLED AT 2021-12-05T22:01:26 DUE TO TIME LIMIT ***

@@ -1,0 +1,5 @@
+mainmode: 
+gpu06
+[WARN] cannot get screen dpi, auto-scaling disabled
+stabilized in 315766202777 ns.
+slurmstepd: error: *** JOB 105961 ON gpu06 CANCELLED AT 2021-12-05T22:33:09 DUE TO TIME LIMIT ***
